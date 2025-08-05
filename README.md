@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Thapelo Clement (Thaps2187)
 
-<!--
-**Thaps2187/Thaps2187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a stats & actuarial science graduate passionate about data, code, and problem-solving.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- 📰 **StockWhisperer** – A sentiment dashboard built with Streamlit, SQLite, and Python NLP to analyze recent financial news
+- ⚽ **Soccer Stats Dashboard** – A Plotly Dash app that explores match data, player stats, and trends in professional football (soccer)
+- 📈 Exploring predictive models for time series forecasting and anomaly detection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+**Languages:** Python, SQL, R  
+**Tools:** Pandas, Streamlit, Dash, Plotly, SQLite, Git  
+**Concepts:** NLP, Data Visualization, Time Series, Statistical Modeling
+
+## 📫 Connect With Me
+- GitHub: [Thaps2187](https://github.com/Thaps2187)
+- LinkedIn: *https://www.linkedin.com/in/clementhapelo/*
