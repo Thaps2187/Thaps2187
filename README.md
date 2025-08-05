@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Thapelo Clement (Thaps2187)
 
-I'm a stats & actuarial science graduate passionate about data, code, and problem-solving.
+I'm a Statistics & Actuarial science graduate passionate about data, coding, and problem-solving.
 
 ## 🚀 What I'm Working On
 - 📰 **StockWhisperer** – A sentiment dashboard built with Streamlit, SQLite, and Python NLP to analyze recent financial news
